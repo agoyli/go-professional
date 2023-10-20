@@ -44,9 +44,10 @@
 5. Learn Linux and Commands
     - https://www.digitalocean.com/community/tutorials/linux-commands
 6. Learn how works Internet, HTTP
-7. Learn Database Management
-8. Learn Caching
-9. Learn Testing
-10. Learn Design and Development Principles 
-11. Learn websockets
-12. Learn how to scale
+7. Learn Naming (#1 Skill for Writing Clean Code)
+8. Learn Database Management
+9. Learn Caching
+10. Learn Testing
+11. Learn Design and Development Principles 
+12. Learn websockets
+13. Learn how to scale
